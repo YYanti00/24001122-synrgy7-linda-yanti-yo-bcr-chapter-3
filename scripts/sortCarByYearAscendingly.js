@@ -17,7 +17,7 @@ function sortCarByYearAscendingly(cars) {
     }
   }
 
-  console.log(result);
+  console.table(result);
 
   // Rubah code ini dengan array hasil sorting secara ascending
   return result;
